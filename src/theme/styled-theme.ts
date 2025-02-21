@@ -3,6 +3,7 @@ export const systemColors = {
   white: "#FDFEFF",
   accent: "#8833FF",
   accentLight: "#BF90FF",
+  gradient: "linear-gradient(90deg, #6953D3 20.79%, #8566F1 49.93%, #A14EEE 77.53%)",
 } as const;
 
 export const styledTheme = {
